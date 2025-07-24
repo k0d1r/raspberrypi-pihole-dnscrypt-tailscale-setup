@@ -45,7 +45,7 @@ Raspberry Pi’nin ağda her zaman aynı IP adresini alması ve tüm cihazların
 
 ### 🖼️ Görsel Referans
 
-![ASUS DSL-N16 DHCP Ayarı](https://i.hizliresim.com/n2gcr5q.jpg)
+![ASUS DSL-N16 DHCP Ayarı](./images/n2gcr5q.jpg)
 
 ---
 
